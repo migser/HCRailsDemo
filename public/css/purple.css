@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0; 
-  //background-color:lightgrey !important}
+  background-color:lightgrey !important}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block; }
